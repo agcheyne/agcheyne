@@ -1,6 +1,5 @@
 -  I’m Andrew Cheyne
 -  Postgraduate research student with the Nuclear and Hadronic Physics group at University of Glasgow.
--  I’m currently learning GEANT4, root
 -  How to reach me a.cheyne.1@research.gla.ac.uk
 
 <!---
