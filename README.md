@@ -1,5 +1,5 @@
 -  I’m Andrew Cheyne
--  Postgraduate research student with the Nuclear and Hadronic Physics group at University of Glasgow.
+-  Postgraduate research student with the Nuclear and Hadron Physics group at University of Glasgow.
 -  How to reach me a.cheyne.1@research.gla.ac.uk
 
 <!---
